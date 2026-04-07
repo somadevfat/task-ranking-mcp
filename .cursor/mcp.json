@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gacha-task": {
+      "command": "bun",
+      "args": ["run", "/home/somah/workspace/task-gacha-mcp/src/index.ts"]
+    }
+  }
+}
